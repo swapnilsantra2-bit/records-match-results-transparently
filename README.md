@@ -119,9 +119,19 @@ contract MatchRecords {
         require(_id < matches.length, "Invalid match ID");
         MatchResult memory m = matches[_id];
         return (m.teamA, m.teamB, m.scoreA, m.scoreB, m.timestamp);
-    }
 
-    function transferOwnership(address _newOwner) public onlyOwner {
-        owner = _newOwner;
+# My Smart Contract
+
+This repository contains the source code and documentation for our deployed smart contract.
+
+## 📄 Contract Details
+
+- **Network:** celo 
+- **Contract Address:** [`0x7BFd4Dc86708d282e442d5470b1bE0D13192a641`](https://etherscan.io/address/0x7BFd4Dc86708d282e442d5470b1bE0D13192a641)
+- **Deployed Date:** 29th oct 2025
+- 
+
+
+
     }
 }
