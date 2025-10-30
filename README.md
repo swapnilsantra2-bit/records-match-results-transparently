@@ -52,6 +52,11 @@ Once deployed:
    - `getMatch(0)` to view stored results  
 
 ---
+## 📬 Contact Me
+
+- 📧 **Email:** [swapnilsantra2@gmail.com](mailto:swapnilsantra2@gmail.com)  
+- 💼 **LinkedIn:** [Swapnil Santra](https://www.linkedin.com/in/swapnil-santra-463883390)  
+- 🐦 **X (Twitter):** [@swapnil_santra](https://x.com/swapnil_santra?t=2eOAE78Z91WRdCes-Nf5uQ&s=09)
 
 ## 🧱 Smart Contract Overview
 
